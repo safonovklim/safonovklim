@@ -17,3 +17,5 @@
 ```
 
 Open [SKILLS.json](SKILLS.json)
+
+Open [Instagram - @safonovklim](https://instagram.com/safonovklim)
