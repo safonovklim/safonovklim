@@ -2,7 +2,7 @@
 
 - Software Engineer - 6+ years
 - Traveler - 30 countries
-- [Email](mailto:me@safonovklim.rocks)
+- [Email](mailto:work@safonovklim.rocks)
 - [Instagram](https://instagram.com/safonovklim)
 
 
@@ -10,30 +10,31 @@
   <summary>Skills - Click to expand</summary>
   
   
-  ## Backend - 5 years
-  - Node.js
-  - AWS Lambda, RDS, DynamoDB, API Gateway, AppSync, etc
-  - Ruby on Rails
-  - Python
-  - PostgreSQL, KairosDB, MongoDB, Cassandra
+  ## 📌 Backend - 5+ years
+  - Node.js (+ Express, Koa, Sails)
+  - Kafka, Zookeeper, AWS MSK
+  - AWS Lambda, API Gateway, AppSync, SQS, SNS, IoT, etc
+  - PostgreSQL, KairosDB, MongoDB, Cassandra, AWS RDS, DynamoDB,
   - socket.io, ActionCable
   - REST, GraphQL, Sockets
+  - Ruby on Rails, Python
   - Microservices
   
-  ## Frontend - 5 years
-  - React
-  - redux, router, drag-and-drop
-  - d3, charts.js
+  ## 📌 Frontend - 5+ years
+  - ReactJS
+  - Redux, React-Router, drag-and-drop (dnd)
+  - d3, charts.js, Material-UI
   - webpack, gulp, pug
   - JQuery, VanilaJS
 
-  ## Other
+  ## 📌 And more
   - Unit tests: mocha, jest, chai, enzyme
   - e2e tests: selenium, nightwatch, webdriver.io
-  - CI/CD: GitLab, AWS CodePipeline, TeamCity
+  - Load tests: Artillery, ECS
+  - CI/CD: Github Actions, GitLab, AWS CodePipeline, TeamCity
   - docker, docker-compose, kubernetes
   - git
   - AWS
-  - nginx, traefik, AWS VPC
+  - nginx, traefik, AWS VPC, Networking
 </details>
 
