@@ -1,7 +1,7 @@
 ## Who am I
 
 - Software Engineer - 6+ years
-- Traveler - 30 countries
+- Traveler - 32 countries
 - [Email](mailto:work@safonovklim.rocks)
 - [Instagram](https://instagram.com/safonovklim)
 
