@@ -3,7 +3,6 @@
 - Software Engineer - 6+ years
 - Traveler - 32 countries
 - [Email](mailto:work@safonovklim.rocks)
-- [Instagram](https://instagram.com/safonovklim)
 
 
 <details>
