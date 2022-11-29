@@ -7,7 +7,7 @@
 
 ### La Note — [lanote.io](https://lanote.io)
 
-Online Notebook for daily work & life routine
+Notebook for daily work & life routine
 
 
 ### Ooh Events — [ooh.events](https://ooh.events)
