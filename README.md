@@ -2,7 +2,6 @@
 
 - Senior Software Engineer
 - Traveler - 32 countries
-- [Email](mailto:work@safonovklim.rocks)
 
 ## My Projects
 
