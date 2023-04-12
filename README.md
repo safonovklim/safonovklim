@@ -2,7 +2,7 @@
 
 - Senior Software Engineer
 - [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/eb3be538-da02-47a5-b954-b689952dfb7c)
-- Traveler - 32 countries
+- Traveler - 35 countries
 
 ## My Projects
 
