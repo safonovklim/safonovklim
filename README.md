@@ -1,8 +1,8 @@
 ## Who am I
 
-- Staff Software Engineer
+- Principal Software Engineer
 - [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/eb3be538-da02-47a5-b954-b689952dfb7c)
-- Traveler - 35 countries
+- Traveler - 37 countries
 
 ## My Projects
 
