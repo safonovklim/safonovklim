@@ -1,6 +1,6 @@
 ## Who am I
 
-- Principal Software Engineer
+- Technology Executive @ [Pure Outcomes](https://pureoutcomes.com)
 - [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/eb3be538-da02-47a5-b954-b689952dfb7c)
 - Traveler - 37 countries
 
