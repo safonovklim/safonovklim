@@ -2,10 +2,10 @@
 
 - Principal Software Engineer
 - Core Competencies
-  - Engineering Leadership and Strategies
-  - Platform Engineering and DevOps
+  - Platform Engineering, DevOps
   - FinOps, Cost Optimization
-  - Solution Architecture and Engineering
+  - Engineering Leadership, Strategies
+  - Solution Architecture
 - Certifications
   - [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/eb3be538-da02-47a5-b954-b689952dfb7c/public_url)
   - [AWS Partner: Cloud Economics Accreditation](https://www.credly.com/badges/374375b7-e8d1-49af-b66d-922779dde584/public_url)
