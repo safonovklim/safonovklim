@@ -18,7 +18,7 @@
 
 ### Yalla Guru — [yalla.guru](https://yalla.guru)
 
-UAE Marketplace for Professional Serviecs and Zero Fees. 100% of Earnings goes directly to Workers. Proudly built and hosted in UAE 🇦🇪
+Professional Services with Zero Fees for Everyone. Proudly built and operated in UAE 🇦🇪
 
 ### La Note — [lanote.io](https://lanote.io)
 
