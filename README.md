@@ -18,7 +18,7 @@
 
 ### Yalla Guru — [yalla.guru](https://yalla.guru)
 
-Professional Services with Zero Fees for Everyone. Proudly built and operated in UAE 🇦🇪
+Next-Gen On-Demand Services. Proudly from UAE 🇦🇪
 
 ### La Note — [lanote.io](https://lanote.io)
 
