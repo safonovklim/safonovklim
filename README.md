@@ -16,15 +16,17 @@
 
 ## My Projects
 
+### GenAPI — [genapi.co](https://genapi.co)
+
+Build and Deploy API in minutes
+
+
 ### Yalla Guru — [yalla.guru](https://yalla.guru)
 
-Next-Gen On-Demand Services. Proudly from UAE 🇦🇪
+Appointment Software for Professionals. Proudly from UAE 🇦🇪
+
 
 ### La Note — [lanote.io](https://lanote.io)
 
 Notebook for daily work & life routine
 
-
-### Ooh Events — [ooh.events](https://ooh.events)
-
-Software for Events Organizers
