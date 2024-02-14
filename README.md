@@ -26,7 +26,7 @@ Build and Deploy API in minutes
 Appointment Software for Professionals. Proudly from UAE 🇦🇪
 
 
-### La Note — [lanote.io](https://lanote.io)
+### La Note — [app.lanote.io](https://app.lanote.io)
 
 Notebook for daily work & life routine
 
