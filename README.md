@@ -18,7 +18,7 @@
 
 ### GenAPI — [genapi.co](https://genapi.co)
 
-Build and Deploy API in minutes
+Ship APIs in minutes, not weeks
 
 
 ### Yalla Guru — [yalla.guru](https://yalla.guru)
@@ -28,5 +28,5 @@ Appointment Software for Professionals. Proudly from UAE 🇦🇪
 
 ### La Note — [app.lanote.io](https://app.lanote.io)
 
-Notebook for daily work & life routine
+Free Notebook for daily work & life routine
 
