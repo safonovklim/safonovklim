@@ -18,7 +18,7 @@
 
 ### GenAPI — [genapi.co](https://genapi.co)
 
-Ship production-ready APIs in minutes, not weeks
+From idea to Production API in minutes
 
 
 ### Yalla Guru — [yalla.guru](https://yalla.guru)
