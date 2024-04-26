@@ -2,10 +2,11 @@
 
 - Principal Software Engineer
 - Core Competencies
-  - Platform Engineering, DevOps
+  - DevOps
   - FinOps, Cost Optimization
   - Engineering Leadership, Strategies
   - Solution Architecture
+  - Platform Engineering
 - Certifications
   - [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/eb3be538-da02-47a5-b954-b689952dfb7c/public_url)
   - [AWS Partner: Cloud Economics Accreditation](https://www.credly.com/badges/374375b7-e8d1-49af-b66d-922779dde584/public_url)
@@ -16,17 +17,17 @@
 
 ## My Projects
 
-### GenAPI — [genapi.co](https://genapi.co)
+### GenAPI.co — [https://genapi.co](https://genapi.co)
 
-From idea to Production API in minutes
+From idea to Production API in minutes, not months
 
 
-### Yalla Guru — [yalla.guru](https://yalla.guru)
+### Yalla Guru — [https://yalla.guru](https://yalla.guru)
 
 Appointment Software for Professionals. Proudly from UAE 🇦🇪
 
 
-### La Note — [app.lanote.io](https://app.lanote.io)
+### La Note — [https://app.lanote.io](https://app.lanote.io)
 
 Free Notebook for daily work & life routine
 
