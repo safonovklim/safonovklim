@@ -1,6 +1,6 @@
 ## Who am I
 
-- Principal Software Engineer
+- Head of DevOps
 - Core Competencies
   - DevOps
   - FinOps, Cost Optimization
