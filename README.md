@@ -13,7 +13,7 @@
   - [AWS Partner: Sales Accreditation (Business)](https://www.credly.com/badges/6f291eab-98d8-4a88-9472-26a696d6c130/public_url)
   - [AWS Partner: Accreditation (Technical)](https://www.credly.com/badges/2be5cae1-50c0-43c7-9dca-90513fb9f34d/public_url)
   - [iFIT](https://company.ifit.com/) - Pinnacle Performer Award
-- Traveler - 37 countries
+- Traveler - 38 countries
 
 ## My Projects
 
