@@ -17,7 +17,7 @@
 
 ## My Projects
 
-### [https://GetLivePass.com](https://getlivepass.com)
+### [GetLivePass.com](https://getlivepass.com)
 
 First-Class Mobile Wallet for Everyone
 
