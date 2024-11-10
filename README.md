@@ -19,7 +19,7 @@
 
 ### [GetLivePass.com](https://getlivepass.com)
 
-Instant Mobile Passes for Everyone
+Instant Apple Wallet Pass for Everyone
 
 
 ### GenAPI.co — [https://genapi.co](https://genapi.co)
