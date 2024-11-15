@@ -27,11 +27,6 @@ Instant Apple Wallet Pass for Everyone
 From idea to Production API in minutes, not months
 
 
-### Yalla Guru — [https://yalla.guru](https://yalla.guru)
-
-Appointment Software for Professionals. Proudly from UAE 🇦🇪
-
-
 ### La Note — [https://app.lanote.io](https://app.lanote.io)
 
 Free Notebook for daily work & life routine
