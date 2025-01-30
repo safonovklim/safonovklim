@@ -2,11 +2,10 @@
 
 - Head of DevOps
 - Core Competencies
-  - DevOps
-  - FinOps, Cost Optimization
+  - DevOps, Platform Engineering
   - Engineering Leadership, Strategies
+  - FinOps, Cost Optimization
   - Solution Architecture
-  - Platform Engineering
 - Certifications
   - [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/eb3be538-da02-47a5-b954-b689952dfb7c/public_url)
   - [AWS Partner: Cloud Economics Accreditation](https://www.credly.com/badges/374375b7-e8d1-49af-b66d-922779dde584/public_url)
@@ -17,14 +16,13 @@
 
 ## My Projects
 
+### [Dibba.ai](https://dibba.ai)
+
+Save for your dream with AI
+
 ### [GetLivePass.com](https://getlivepass.com)
 
 Instant Apple Wallet Pass for Everyone
-
-
-### GenAPI.co — [https://genapi.co](https://genapi.co)
-
-From idea to Production API in minutes, not months
 
 
 ### La Note — [https://app.lanote.io](https://app.lanote.io)
