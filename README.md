@@ -1,8 +1,8 @@
 ## Who am I
 
-- Head of DevOps
-- Core Competencies
+- I do
   - DevOps, Platform Engineering
+  - AI Ops
   - Engineering Leadership, Strategies
   - FinOps, Cost Optimization
   - Solution Architecture
@@ -18,12 +18,11 @@
 
 ### [Dibba.ai](https://dibba.ai)
 
-Save for your dream with AI
+Save for your dream faster with AI
 
 ### [GetLivePass.com](https://getlivepass.com)
 
 Instant Apple Wallet Pass for Everyone
-
 
 ### La Note — [https://app.lanote.io](https://app.lanote.io)
 
