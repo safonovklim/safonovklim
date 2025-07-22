@@ -18,13 +18,4 @@
 
 ### [Dibba.ai](https://dibba.ai)
 
-Save for your dream faster with AI
-
-### [GetLivePass.com](https://getlivepass.com)
-
-Instant Apple Wallet Pass for Everyone
-
-### La Note — [https://app.lanote.io](https://app.lanote.io)
-
-Free Notebook for daily work & life routine
-
+Save for your dream with AI
